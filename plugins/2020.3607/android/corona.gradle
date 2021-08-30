@@ -2,6 +2,7 @@
 repositories {
         
         mavenCentral()
+
         maven { url "https://sdk.tapjoy.com/"}
 }
 
